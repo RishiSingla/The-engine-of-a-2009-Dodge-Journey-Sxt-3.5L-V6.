@@ -5,7 +5,7 @@
 <body>
 <h1> The engine of a 2009 Dodge Journey Sxt 3.5L V6.</h1>
 <p>
-Here you will see what the engine of a 2009 Dodge Journey looks like and what fluids go into the main accessablecomponent.
+Here you will see what the engine of a 2009 Dodge Journey looks like and what fluids go into the main accessable component.
 </p>
 <img src="https://cdn04.carsforsale.com/3/1008987/6954112/830343884.jpg">
 <p> First, step is to find out what each part of the engine are?</p>
